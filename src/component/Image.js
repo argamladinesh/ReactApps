@@ -8,8 +8,8 @@ if (typeof response.data !== "undefined") {
 }
 
 function Image() {
-    return (
-      fun1    )
+    return (<>
+      {fun1} </>   )
 }
 
 export default Image
